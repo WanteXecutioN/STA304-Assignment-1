@@ -1,2 +1,2 @@
 # STA304-Assignment-1
-I will edit this now
+This project is about Covid-19 cases in Toronto
